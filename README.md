@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/batwa-the-wallet/batwa-poc-prototype.png?branch=master)](https://travis-ci.org/Batwa-the-wallet/batwa-poc-prototype)
+[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/dwyl/goodparts "JavaScript The Good Parts")
+[![Coverage Status](https://coveralls.io/repos/Batwa-the-wallet/batwa-poc-prototype/badge.svg?branch=master)](https://coveralls.io/r/Batwa-the-wallet/batwa-poc-prototype?branch=master)
+
+
 ## Batwa The Wallet
 
 Blockchain Proof of concept Protoype. Visit https://batwa-the-wallet.github.io/batwa-poc-prototype
