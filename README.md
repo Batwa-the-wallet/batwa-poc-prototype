@@ -1,6 +1,6 @@
 ## Batwa The Wallet
 
-Blockchain Proof of concept Protoype
+Blockchain Proof of concept Protoype. Visit https://batwa-the-wallet.github.io/batwa-poc-prototype
 
 ### Setup
 
